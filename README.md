@@ -1,7 +1,7 @@
 # **Melina Bugallo**
 Legajo: 208.907-5
 #### » _Buenaaas, soy Mel, tengo 19 años y estoy en el segundo año de la carrera_
-![Foto mia](https://user-images.githubusercontent.com/129804812/230233075-ea053661-6d31-4221-abf8-054e55756da8.png)
+![Foto mia](https://github.com/pdepjm/2023-tp0-presentacion-MeliBugallo/blob/main/Foto%20mia.png?raw=true)
 ## _Surtido de info acerca de mi_
 - Soy la humana de mi michi, Kai
 - Tomo café, luego existo
@@ -12,4 +12,4 @@ Legajo: 208.907-5
 <rb>
 Apreciación de bello ser :sparkles:
   
-![Kai](https://user-images.githubusercontent.com/129804812/230233459-0f09ac5e-bd5a-486b-ab4e-19a1aa53cb0a.png)
+![Kai](https://github.com/pdepjm/2023-tp0-presentacion-MeliBugallo/blob/main/Kai.png?raw=true)
